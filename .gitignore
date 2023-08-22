@@ -1,0 +1,4 @@
+*.pem
+*.bin
+*.txt
+.DS_Store
